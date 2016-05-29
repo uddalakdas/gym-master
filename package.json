@@ -45,6 +45,7 @@
 	"devDependencies": {
 		"supertest": "~0.14.0",
 		"should": "~4.1.0",
+		"grunt":"*",
 		"grunt-env": "~0.4.1",
 		"grunt-contrib-watch": "~0.6.1",
 		"grunt-contrib-jshint": "~0.10.0",
