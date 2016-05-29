@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-	db: 'mongodb://localhost/gym-master-dev',
+	db: 'mongodb://uddas:lexmark123@ds019481.mlab.com:19481/gym_master',
 	app: {
 		title: 'gym-master - Development Environment'
 	},
